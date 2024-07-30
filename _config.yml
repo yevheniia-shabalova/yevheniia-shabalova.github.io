@@ -16,24 +16,15 @@ darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  yevheniia-shabalova
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+github_username: yevheniia-shabalova
 instagram_username: jnsnrz
 linkedin_username: yevheniia-shabalova
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 # - title: itsgoingto.be
-#  icon: fas fa-globe
-# url: https://www.itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,72 +38,116 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | 
   As a seasoned Frontend Developer with over six years of experience, I specialize in <mark>Angular</mark>, <mark>React</mark>, and <mark>TypeScript</mark>, creating innovative solutions in the e-commerce, fintech, and mining industries. My expertise lies in building responsive, scalable web applications that streamline processes and enhance user experiences. With a proven track record in reducing development times and increasing user satisfaction, I excel in both collaborative and independent roles. Additionally, my unique background in psychiatry and ongoing pursuit of certification in data analytics further enrich my approach to problem-solving and development. I'm passionate about leveraging technology to deliver impactful, efficient solutions.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Super awesome project
         link: github.com/sproogen
-        # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        description: |
+          I started this project as a way of learning <mark>React</mark> and it has since grown into a fully-fledged app. I have learned many skills through this and am very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+        title: SoftServe Technology Services Canada
+        link: https://www.softserveinc.com/en-us
+        sub_title: Frontend Developer
+        caption: July 2022 - July 2024
+        description: |
+          - Developed and maintained web applications and dashboards for a mining industry customer in Canada as part of a large, distributed team
+          - Utilized technologies such as Angular 7+, Angular Material, Rx.js, Mapbox, HighCharts, Typescript, HTML, and SCSS to simplify processes and save time and resources for the client
+          - Contributed to a 20% increase in user satisfaction as measured by customer feedback surveys
+          - Implemented new features, such as a real-time data visualization dashboard, resulting in a 15% reduction in data analysis time for internal teams
+          - Collaborated with cross-functional teams to ensure seamless integration of frontend and backend systems, resulting in a 30% reduction in development time for new projects
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+      - layout: left
+        title: SoftServe
+        link: https://www.softserveinc.com/en-us
+        sub_title: Frontend Developer
+        caption: January 2021 - June 2022
+        description: |
+          - Implemented responsive web UIs and new features, resulting in a 20% increase in user satisfaction as measured by feedback surveys, and a 15% reduction in development time as measured by project timelines.
+          - Increased unit test coverage of the project from 50% to 80%, leading to a 25% decrease in the number of bugs identified during the QA process.
+          - Conducted regular code reviews and implemented code optimization techniques, resulting in a 30% decrease in the number of bugs found during new feature development.
+          - Mentored Front-End Developer trainee for 6 months, resulting in a 40% improvement in the trainee's understanding and ability to implement unit testing as measured by a skills assessment test.
+
+      - layout: left
+        title: First Ukrainian International Bank (FUIB)
+        link: https://www.pumb.ua/en
+        sub_title: Frontend Developer
+        caption: July 2019 – January 2021
+        description: |
+          - Created technical documentation for project reference resulting in a 20% reduction in training and onboarding time for new team members
+          - Developed a call center application utilizing Cisco Enterprise Chat and Email which led to a 25% reduction in call handling time
+          - Built an internal application for automating corezoid processes deployment resulting in a 30% reduction in manual deployment errors
+          - Created a scan viewer application for the risk department which led to a 40% reduction in risk assessment time
+
+      - layout: left
+        title: Project Work
+        link: 
+        sub_title: Junior Frontend Developer
+        caption: November 2015 – July 2019
+        description: |
+          - Maintained several e-commerce sites and optimized them for search engines
+          - Created from scratch more than 7 sites with streaming video according to Usability Design and best User Experience
+          - Optimized images and code to increase Time on Page by 30 seconds on 10+ websites.
+          - Enhanced all cross-browser and multi-platform compatibility
+
+  - title: Education
+    layout: list
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Data Science, Data Sciences Institute, University of Toronto
+        caption: April 2024 - August 2024
+        description: |
+          - A 16-week accelerated training on the foundation and practical application of data science
+          - Managed collaborative software development effectively on Git/GitHub
+          - Mastered Python/R programming excelling in data manipulation, visualization, and ethical software considerations, contributing to comprehensive data-driven solutions
+          - Proficiently handled SQL for data management
+          - Demonstrated expertise in data manipulation and visualization using numpy, pandas and matplotlib, proficiently interacting with databases and storing data in CSV/JSON formats
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Medical practitioner (intern) in the specialty "Psychiatry", Higher Medical Educational Institution of Ukraine "Ukrainian Medical Stomatological Academy"
+        caption: August 2014 - January 2016
+        description: |
+          - Conducted thorough psychiatric assessments, meticulously gathering and analyzing medical histories and mental health evaluations to inform accurate diagnoses and treatment plans.
+          - Contributed to the diagnosis of a range of mental health disorders, collaborating closely with senior practitioners to develop tailored treatment strategies that address patients' unique needs effectively.
+          - Delivered compassionate care and support, fostering a therapeutic environment conducive to patients' mental health and well-being, ensuring their comfort and dignity throughout their treatment journey.
+          - Collaborated with interdisciplinary teams to formulate and implement individualized treatment plans, integrating medication management and evidence-based therapeutic interventions to optimize patient outcomes and recovery.
+
+      - layout: left
+        title: First professional degree in medicine (Doctor of Medicine), Higher Medical Educational Institution of Ukraine "Ukrainian Medical Stomatological Academy"
+        caption: September 2008 - June 2014
+        description: |
+          - Earned Doctor of Medicine degree from the Ukrainian Medical Stomatological Academy, completing comprehensive medical education and training
+          - Completed rigorous coursework in anatomy, physiology, pathology, pharmacology, and clinical practice, acquiring a solid foundation in medical sciences
+          - Participated in clinical rotations across various specialties, gaining practical experience in patient care, diagnosis, and treatment under the supervision of experienced physicians
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    content: |
+      Alongside my professional interests in frontend development and data science, some of my other interests and hobbies are:
+      - Taking care of plants
+      - Karaoke
+      - Reading books
+      - Exploring cosmetics
+      - Organizing events
+      - Staying positive and inspiring those around me
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
