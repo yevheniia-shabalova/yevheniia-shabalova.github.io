@@ -37,7 +37,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: https://avatars.githubusercontent.com/u/11918485?v=4
 about_content: | 
   As a seasoned Frontend Developer with over six years of experience, I specialize in <mark>Angular</mark>, <mark>React</mark>, and <mark>TypeScript</mark>, creating innovative solutions in the e-commerce, fintech, and mining industries. My expertise lies in building responsive, scalable web applications that streamline processes and enhance user experiences. With a proven track record in reducing development times and increasing user satisfaction, I excel in both collaborative and independent roles. Additionally, my unique background in psychiatry and ongoing pursuit of certification in data analytics further enrich my approach to problem-solving and development. I'm passionate about leveraging technology to deliver impactful, efficient solutions.
 
