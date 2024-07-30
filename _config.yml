@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Yevheniia Shabalova
+title: Frontend Developer
+email: evgenia.gq@gmail.com
+website: https://github.com/yevheniia-shabalova
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  yevheniia-shabalova
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: jnsnrz
+linkedin_username: yevheniia-shabalova
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#  icon: fas fa-globe
+# url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  As a seasoned Frontend Developer with over six years of experience, I specialize in <mark>Angular</mark>, <mark>React</mark>, and <mark>TypeScript</mark>, creating innovative solutions in the e-commerce, fintech, and mining industries. My expertise lies in building responsive, scalable web applications that streamline processes and enhance user experiences. With a proven track record in reducing development times and increasing user satisfaction, I excel in both collaborative and independent roles. Additionally, my unique background in psychiatry and ongoing pursuit of certification in data analytics further enrich my approach to problem-solving and development. I'm passionate about leveraging technology to deliver impactful, efficient solutions.
 
 content:
   - title: Projects # Title for the section
