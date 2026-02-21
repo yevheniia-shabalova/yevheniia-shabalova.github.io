@@ -39,7 +39,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: https://avatars.githubusercontent.com/u/11918485?v=4
 about_content: | 
-  As a seasoned Frontend Developer with over six years of experience, I specialize in <mark>Angular</mark>, <mark>React</mark>, and <mark>TypeScript</mark>, creating innovative solutions in the e-commerce, fintech, and mining industries. My expertise lies in building responsive, scalable web applications that streamline processes and enhance user experiences. With a proven track record in reducing development times and increasing user satisfaction, I excel in both collaborative and independent roles. Additionally, my unique background in psychiatry and ongoing pursuit of certification in data analytics further enrich my approach to problem-solving and development. I'm passionate about leveraging technology to deliver impactful, efficient solutions.
+  With 9 years of professional experience in web development, I bring a robust skill set spanning Angular 2+, React, native JS, TypeScript, Rx.js, HTML, SCSS, and responsive markup techniques like media queries, Flexbox, and Bootstrap framework. My diverse technology expertise has empowered me to contribute effectively to a variety of projects, where I've excelled in requirements gathering and customer communication. I have a strong foundation in Agile Scrum methodology, enabling me to thrive in dynamic project environments. My approach is characterized by organization, results-driven focus, and a passion for problem-solving. I'm deeply committed to delivering top-quality work, consistently meeting and exceeding customer expectations. In addition to frontend development, I've also gained experience in backend tasks, particularly with Python, and have adeptly handled SQL tasks such as query refactoring. This broader skill set enhances my ability to contribute to multifaceted projects and tackle complex challenges effectively. I am always eager to expand my knowledge and share my expertise with others, and I find immense satisfaction in delivering high-quality solutions to clients. 
 
 content:
  # - title: Projects
@@ -57,6 +57,63 @@ content:
  #       description: |
  #         I started this project as a way of learning <mark>React</mark> and it has since grown into a fully-fledged app. I have learned many skills through this and am very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+  - title: Skills
+    layout: list
+    content:
+
+      - layout: left
+        title: Programming Languages & Technologies
+        description: |
+          - Native JavaScript, TypeScript, Rx.js  
+          - HTML, CSS, SCSS  
+          - Flexbox, Responsive markup (media queries)  
+          - Cross-browser compatibility  
+          - Technical documentation  
+          - Python, SQL  
+          - RDBMS, MongoDB  
+
+      - layout: left
+        title: Frameworks & Libraries
+        description: |
+          - Angular 2+, Angular Material, Angular Flex-Layout  
+          - React, Next.js, SSR  
+          - Bootstrap, Storybook  
+
+      - layout: left
+        title: Testing & Quality
+        description: |
+          - Jest  
+          - React Testing Library  
+          - Unit and E2E testing  
+
+      - layout: left
+        title: CMS & Experience Platforms
+        description: |
+          - Sitecore  
+
+      - layout: left
+        title: Development Tools
+        description: |
+          - WebStorm, VS Code  
+          - Git, Azure DevOps  
+          - Jira  
+          - CI/CD pipelines  
+          - A/B testing  
+
+      - layout: left
+        title: Monitoring
+        description: |
+          - Datadog  
+
+      - layout: left
+        title: Methodologies
+        description: |
+          - Agile, Scrum  
+          - Trunk-based development  
+          - Code reviews  
+          - Cross-functional collaboration  
+
+
   - title: Experience
     layout: list
     content:
@@ -64,7 +121,7 @@ content:
         title: SoftServe Technology Services Canada
         link: https://www.softserveinc.com/en-us
         sub_title: Frontend Developer
-        caption: July 2022 - July 2024
+        caption: July 2022 - Present
         description: |
           - Developed and maintained web applications and dashboards for a mining industry customer in Canada as part of a large, distributed team
           - Utilized technologies such as Angular 7+, Angular Material, Rx.js, Mapbox, HighCharts, Typescript, HTML, and SCSS to simplify processes and save time and resources for the client
